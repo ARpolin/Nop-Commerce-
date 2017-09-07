@@ -1,0 +1,505 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>test</title>
+    <meta charset="utf-8" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <script src="scripts/jquery-3.1.1.min.js"></script>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link href="css/homepage.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="main-container">
+        <div class="header">
+        </div>
+        <div class="search-Container">
+        </div>
+        <div class="content">
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-1">
+
+        </div>
+        <div class="col-md-10">
+
+            <nav class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="#"><img src="Pictures/logo.png" /></a>
+                    </div>
+
+
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav" style="list-style-type: none;">
+                            <li class="active"><a href="#">HOME</a></li>
+                            <li class="dropdown">
+                                <a class="dropdown-toggle" data-toggle="dropdown" href="#">DEMO</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="#">DEMO 1</a></li>
+                                    <li><a href="#">DEMO 2</a></li>
+                                    <li><a href="#">DEMO 3</a></li>
+                                    <li><a href="#">DEMO 4</a></li>
+                                    <li><a href="#">DEMO 5</a></li>
+                                    <li><a href="#">DEMO 6</a></li>
+                                    <li><a href="#">DEMO 7</a></li>
+                                    <li><a href="#">DEMO 8</a></li>
+                                    <li><a href="#">DEMO 9</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="#">PAGE</a></li>
+                            <li><a href="#">BLOG</a></li>
+                            <li><a href="/shop.html">SHOP</a></li>
+                            <li><a href="#">PORTFOLIO</a></li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="#"><span class="glyphicon glyphicon-user"></span></a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-heart"></span></a></li>
+                            <li><a href="#"><span class="glyphicon glyphicon-shopping-cart"></span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="col-md-1">
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="serach-button-with-menu">
+            <div class="container">
+                <div class="row" id="search-div">
+                    <div class="col-md-3">
+
+                    </div>
+                    <div class="col-md-6">
+                        <div class="input-group">
+                            <div class="input-group-btn search-panel">
+                                <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+                                    <span id="search_concept">All Catagories</span> <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu" role="menu">
+                                    <li><a id="search_concept" href="#">All Catagories</a></li>
+                                    <li><a id="search_concept" href="#">Accessories (9)</a></li>
+                                    <li><a id="search_concept" href="#">Men (13)</a></li>
+                                    <li><a id="search_concept" href="#">Women(12)</a></li>
+                                </ul>
+                            </div>
+                            <input type="hidden" name="search_param" value="all" id="search_param">
+                            <input type="text" class="form-control" name="x" placeholder="Search Products...">
+                            <span class="input-group-btn">
+                                <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-search"></span></button>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-1">
+
+        </div>
+        <div class="col-md-10">
+            <div class="row" id="banner">
+                <div class="col-md-3">
+                    <div class="banner-item">
+                        <div class="row">
+                            <div class="col-md-3 ">
+                                <img src="Pictures/home_1.png" />
+                            </div>
+                            <div class="col-md-9">
+                                <p class="banner-text">SHIPPING ON THE WORLD</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="banner-item">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img src="Pictures/home_2.png" />
+                            </div>
+                            <div class="col-md-9">
+                                <p class="banner-text">LOTERY PROGRAM ON 3 DAYS</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="banner-item">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img src="Pictures/home_3.png" />
+                            </div>
+                            <div class="col-md-9">
+                                <p class="banner-text">TELL FRIENDS AND GET %5</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="banner-item">
+                        <div class="row">
+                            <div class="col-md-3">
+                                <img src="Pictures/home_4.png" />
+                            </div>
+                            <div class="col-md-9">
+                                <p class="banner-text">SUPPORT ONLINE + 123 456 789</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-1">
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-1">
+
+        </div>
+        <div class="col-md-10">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <div class="left-side-menu">
+                            <div class="menu-list-header">PRODUCT CATEGORIES</div>
+                            <div class="left-side-menu-items">
+                                <ul class="product-categories dropdown">
+                                    <li class="cat-item "><a href="#">Accessories</a> <span class="count">(9)</span></li>
+                                    <li class="cat-item "><a href="#">Beauty</a> <span class="count">(0)</span></li>
+                                    <li class="cat-item ">
+                                        <span class="icon-toggle"><i class="fa fa-caret-right"></i></span><a href="#">Men</a> <span class="count">(13)</span>
+                                        <ul class="children" style="display: none;">
+                                            <li class="cat-item "><a href="#">Bags</a> <span class="count">(1)</span></li>
+                                            <li class="cat-item "><a href="#">Clothing</a> <span class="count">(8)</span></li>
+                                            <li class="cat-item "><a href="#">Gifts</a> <span class="count">(3)</span></li>
+                                            <li class="cat-item "><a href="#">Hats</a> <span class="count">(1)</span></li>
+                                        </ul>
+                                    </li>
+                                    <li class="cat-item cat-item-34 cat-parent">
+                                        <span class="icon-toggle"><i class="fa fa-caret-down"></i></span><a href="http://adot.thimpress.com/home-09/product-category/women/">Women</a> <span class="count">(12)</span>
+                                        <ul class="children" style="display: block;">
+                                            <li class="cat-item "><a href="http://adot.thimpress.com/home-09/product-category/women/bags-women/">Bags</a> <span class="count">(3)</span></li>
+                                            <li class="cat-item "><a href="http://adot.thimpress.com/home-09/product-category/women/clothing/">Clothing</a> <span class="count">(6)</span></li>
+                                            <li class="cat-item "><a href="http://adot.thimpress.com/home-09/product-category/women/gifts-women/">Gifts</a> <span class="count">(2)</span></li>
+                                            <li class="cat-item "><a href="http://adot.thimpress.com/home-09/product-category/women/hat/">Hat</a> <span class="count">(1)</span></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!--left side menu with check now-->
+
+                        <div class="item">
+                            <img src="Pictures/home991.png" style="width:218px;margin-top:2%;height:323px;">
+
+                            <div class="item-overlay top"></div>
+                        </div>
+
+
+                        <!--<div class="left-side-menu-with-check-now img-holder">
+                    <img src="Pictures/home991.png" style="height:100%;margin-top:2%;width: 100%;" />
+                    <a class="linkleft" style="padding:2%" href=""> Check Now <span class="glyphicon glyphicon-arrow-right" style="color:#1dae84;"></span></a>
+                </div>-->
+                        <!--left side best seller option-->
+                        <div class="left-side-best-seller-menu">
+                            <div class="left-side-best-seller-menu-header">
+                                <h5><b>BEST SELLERS</b></h5>
+                            </div>
+                            <div class="container">
+
+                                <div class="menu-items">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-5">
+                                                <img src="Pictures/small-1.jpg" class="left-side-best-seller-menu-pic" />
+                                            </div>
+                                            <div class="col-md-7">
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="menu-items">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-5">
+                                                <img src="Pictures/small-2.jpg" class="left-side-best-seller-menu-pic" />
+                                            </div>
+                                            <div class="col-md-7">
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="menu-items">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-5">
+                                                <img src="Pictures/small-3.jpg" class="left-side-best-seller-menu-pic" />
+                                            </div>
+                                            <div class="col-md-7">
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!--left side best seller option-->
+                        <!--<div class="left-side-top-rated-companies">
+                    <div class="left-side-top-rated-companies-header">
+                        TOP RATED <span><></span>
+                    </div>
+                    <div class="left-side-top-rated-companies-pic-holder">
+
+                    </div>
+                </div>-->
+                        <!--left side best seller option-->
+                        <div class="left-side-manufactory-companies">
+                            <div class="company-list-container">
+                                <div class="company-header">
+                                    MANUFACTORY
+                                </div>
+                                <div class="company-list">
+                                    <div class="company-list-item">
+                                        <a href=""><img src="Pictures/company-1.jpg" /></a>
+                                    </div>
+                                    <div class="company-list-item">
+                                        <a href=""><img src="Pictures/company-2.jpg" /></a>
+                                    </div>
+                                    <div class="company-list-item">
+                                        <a href=""><img src="Pictures/company-3.jpg" /></a>
+                                    </div>
+                                    <div class="company-list-item">
+                                        <a href=""><img src="Pictures/company-4.jpg" /></a>
+                                    </div>
+                                    <div class="company-list-item">
+                                        <a href=""><img src="Pictures/company-5.jpg" /></a>
+                                    </div>
+                                    <div class="company-list-item">
+                                        <a href=""><img src="Pictures/company-6.jpg" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-8">
+                        <div class="right-side-contents">
+                            <div class="slider">
+                                <div class="container">
+                                    <div class="row">
+                                        <h1>SLIDER</h1>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--men women summer offers-->
+                            <div class="summer-offers">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-6" id="summer-offers-men-collection">
+                                            <div class="summer-offers-pic-holder">
+                                                <div class="summer-offers-content-collection">
+                                                    <h3>MAN</h3> <p>SUMMER</p> <a href="#">DISCOVER<span class="glyphicon glyphicon-arrow-right"></span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6" id="summer-offers-women-collection">
+                                            <div class="summer-offers-pic-holder">
+                                                <div class="summer-offers-content-collection">
+                                                    <h3>MAN</h3> <p>SUMMER</p> <a href="#">DISCOVER<span class="glyphicon glyphicon-arrow-right"></span></a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!--BIG SUMMER SELL BANNER-->
+                            <div class="big-summer-sell-banner">
+                                <div class="so-panel widget widget_collection">
+                                    <div class="panel-widget-style">
+                                        <div class="thim-widget-collection thim-widget-collection-base">
+                                            <div class="wrap-box-collection overlay  text-center " style="background-color: #fff;">
+                                                <div class="wrapper-image"><img src="Pictures/offer.jpg" alt="Offers"></div>
+                                                <div class="collection-hover">
+                                                    <div class="collection-main-content">
+                                                        <div class="wrap-content-collection">
+                                                            <div class="widget-title-collection">
+                                                                <h3 class="collection-title">BIG SUMMER SALE 50%</h3>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="blog-section">
+                                <div class="blog-header">
+                                    <p class="blog-header-text">LATEST BLOG</p>
+                                </div>
+                                <div class="blog-body">
+                                    <div class="blog-items">
+                                        <div class="row">
+                                            <div class="container">
+                                                <div class="col-md-4">
+                                                    <div class="blog-item-1">
+                                                        <div class="blog-items-picture"><img src="Pictures/blog-item-1.jpg" /></div>
+                                                        <div class="blog-items-header"><a href="#">Kiss Lipstick in Noble</a></div>
+                                                        <div class="blog-item-release-details">by <a href="#" class="blog-author-name">thang</a> on 5 May 2015</div>
+                                                        <div class="blog-item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste commodi reiciendis fugit qui quia</div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="blog-item-2">
+                                                        <div class="blog-items-picture"><img src="Pictures/blog-item-2.jpg" /></div>
+                                                        <div class="blog-items-header"><a href="#">my fiat 500</a></div>
+                                                        <div class="blog-item-release-details">by <a href="#" class="blog-author-name">thang</a> on 5 May 2015</div>
+                                                        <div class="blog-item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste commodi reiciendis fugit qui quia</div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4">
+                                                    <div class="blog-item-3">
+                                                        <div class="blog-items-picture"><img src="Pictures/blog-item-3.jpg" /></div>
+                                                        <div class="blog-items-header"><a href="#">Starting a Journal</a></div>
+                                                        <div class="blog-item-release-details">by <a href="#" class="blog-author-name">thang</a> on 5 May 2015</div>
+                                                        <div class="blog-item-description">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste commodi reiciendis fugit qui quia</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-1">
+
+        </div>
+    </div>
+
+
+
+
+
+    <!--Created By Ashiq-->
+    <div class="a-footer-top">
+        <div class="container">
+            <div class="row">
+                <aside class="col-md-6 col-sm-6 aside-footer">
+                    <div class="thim-widget-social thim-widget-social-base">
+                        <h3 class="widget-title">Follow Us</h3>
+                        <div class="thim-social">
+                            <ul>
+                                <li><a class="facebook" href="#" target="_self"><i class="fa fa-facebook"></i></a></li>
+                                <li><a class="twitter" href="#" target="_self"><i class="fa fa-twitter"></i></a></li>
+                                <li><a class="google_plus" href="#" target="_self"><i class="fa fa-google-plus"></i></a></li>
+                                <li><a class="instagram" href="#" target="_self"><i class="fa fa-instagram"></i></a></li>
+                                <li><a class="pinterest" href="#" target="_self"><i class="fa fa-pinterest"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </aside>
+
+                <div class="col-md-6 col-sm-6">
+                    <div class="a-f-title">
+                        <p>Newsletter</p>
+                    </div>
+                    <form>
+                        <div class="form-email-group">
+                            <input type="text" class="form-control" placeholder="Enter email Address" style="width:60%; margin:auto">
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Created by ashiq-->
+    <div class="a-footer" style="max-width:100%">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 footer">
+                    <p style="padding-top:50px;">Powered By <a href="#">ThimPress</a><p>
+                    <p>Adot © 2016</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <ul id="menu2">
+        <li>
+            Parent 1
+            <ul>
+                <li><a href="#">item 3</a></li>
+                <li>
+                    Parent 3
+                    <ul>
+                        <li><a href="#">item 8</a></li>
+                        <li><a href="#">item 9</a></li>
+                        <li><a href="#">item 10</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">item 4</a></li>
+            </ul>
+        </li>
+        <li><a href="#">item 1</a></li>
+        <li>non-link item</li>
+        <li>
+            Parent 2
+            <ul>
+                <li><a href="#">item 5</a></li>
+                <li><a href="#">item 6</a></li>
+                <li><a href="#">item 7</a></li>
+            </ul>
+        </li>
+    </ul>
+
+    <script>
+        $('#menu2').slicknav({
+            label: '',
+            duration: 1000,
+            easingOpen: "easeOutBounce", //available with jQuery UI
+            prependTo: '#demo2'
+        });
+    </script>
+
+</body>
+</html>

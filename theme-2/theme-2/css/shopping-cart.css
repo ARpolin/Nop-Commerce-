@@ -1,0 +1,40 @@
+﻿.main-row{
+    width : 100%;
+}
+
+.main-body{
+    margin-left : 10%;
+    margin-right : 10%;
+}
+
+.shopping-cart-main-body{
+    border-bottom : 1px solid #eee;
+    padding: 13px 0;
+}
+
+.shopping-cart-navigation p{
+    text-align : center;
+    color: #333;
+    font-size: 12px;  
+}
+
+.shopping-cart-product-items{
+    margin-left :20%;
+    margin-right : 20%;
+}
+
+.shopping-cart-product-header-1{
+    float : left;
+}
+
+.shopping-cart-product-header-2{
+    float : left;
+}
+
+.shopping-cart-product-header-3{
+    float : left;
+}
+
+.shopping-cart-product-header-4{
+    float : left;
+}

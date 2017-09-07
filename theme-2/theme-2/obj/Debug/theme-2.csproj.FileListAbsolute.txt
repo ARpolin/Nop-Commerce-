@@ -1,0 +1,231 @@
+D:\Porag\Office work\theme-2\theme-2\bin\ApplicationInsights.config
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\csc.exe
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\System.Collections.Immutable.dll
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\vbc.exe
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe
+D:\Porag\Office work\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe.config
+D:\Porag\Office work\theme-2\theme-2\bin\theme-2.dll.config
+D:\Porag\Office work\theme-2\theme-2\bin\theme-2.dll
+D:\Porag\Office work\theme-2\theme-2\bin\theme-2.pdb
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.Web.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.ApplicationInsights.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.Web.xml
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.xml
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.ApplicationInsights.xml
+D:\Porag\Office work\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Porag\Office work\theme-2\theme-2\obj\Debug\theme-2.csprojResolveAssemblyReference.cache
+D:\Porag\Office work\theme-2\theme-2\obj\Debug\theme-2.dll
+D:\Porag\Office work\theme-2\theme-2\obj\Debug\theme-2.pdb
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\ApplicationInsights.config
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\csc.exe
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\System.Collections.Immutable.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\vbc.exe
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe.config
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\theme-2.dll.config
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\theme-2.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\theme-2.pdb
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.Web.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.ApplicationInsights.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.Web.xml
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.xml
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.ApplicationInsights.xml
+D:\Porag-Microapps\Office work\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Porag-Microapps\Office work\theme-2\theme-2\obj\Debug\theme-2.csprojResolveAssemblyReference.cache
+D:\Porag-Microapps\Office work\theme-2\theme-2\obj\Debug\theme-2.dll
+D:\Porag-Microapps\Office work\theme-2\theme-2\obj\Debug\theme-2.pdb
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\ApplicationInsights.config
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\csc.exe
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\vbc.exe
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\theme-2.dll.config
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\theme-2.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\theme-2.pdb
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.Web.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.Web.xml
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\obj\Debug\theme-2.csprojResolveAssemblyReference.cache
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\obj\Debug\theme-2.dll
+C:\Users\User\AppData\Roaming\Skype\My Skype Received Files\ADOT Theme\ADOT Theme\theme-2\theme-2\obj\Debug\theme-2.pdb
+E:\Nop_Dot\theme-2\theme-2\bin\ApplicationInsights.config
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\csc.exe
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\System.Collections.Immutable.dll
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\System.Reflection.Metadata.dll
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\vbc.exe
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe
+E:\Nop_Dot\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe.config
+E:\Nop_Dot\theme-2\theme-2\bin\theme-2.dll.config
+E:\Nop_Dot\theme-2\theme-2\bin\theme-2.dll
+E:\Nop_Dot\theme-2\theme-2\bin\theme-2.pdb
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Web.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.ApplicationInsights.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.xml
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Web.xml
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.xml
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.ApplicationInsights.xml
+E:\Nop_Dot\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.csprojResolveAssemblyReference.cache
+E:\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.dll
+E:\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.pdb
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\ApplicationInsights.config
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\csc.exe
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\System.Collections.Immutable.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\vbc.exe
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe.config
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\theme-2.dll.config
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\theme-2.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\theme-2.pdb
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.Web.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.ApplicationInsights.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.xml
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.Web.xml
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.xml
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.ApplicationInsights.xml
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\obj\Debug\theme-2.csprojResolveAssemblyReference.cache
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\obj\Debug\theme-2.dll
+D:\CODES\Nop_Dot_dev\theme-2\theme-2\obj\Debug\theme-2.pdb
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\ApplicationInsights.config
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\csc.exe
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\vbc.exe
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\theme-2.dll.config
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\theme-2.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\theme-2.pdb
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Web.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.ApplicationInsights.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Web.xml
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.xml
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.ApplicationInsights.xml
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.csprojResolveAssemblyReference.cache
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.dll
+D:\Code\nop_theme\theme-2\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.pdb
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\ApplicationInsights.config
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\csc.exe
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\vbc.exe
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\theme-2.dll.config
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\theme-2.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\theme-2.pdb
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Web.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.ApplicationInsights.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.DependencyCollector.xml
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.Web.xml
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.AI.WindowsServer.xml
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.ApplicationInsights.xml
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.csprojResolveAssemblyReference.cache
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.dll
+D:\Code\nop_theme\Nop_Dot\theme-2\theme-2\obj\Debug\theme-2.pdb
